@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36EACE2C-56B8-4594-A554-F730E5F28CFF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Revisi</RootNamespace>
+    <AssemblyName>Revisi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bayar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bayar.Designer.cs">
+      <DependentUpon>Bayar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bayar\bayarclass.cs" />
+    <Compile Include="Bus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bus.Designer.cs">
+      <DependentUpon>Bus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="daftar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daftar.Designer.cs">
+      <DependentUpon>daftar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kereta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kereta.Designer.cs">
+      <DependentUpon>Kereta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="message pulsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="message pulsa.Designer.cs">
+      <DependentUpon>message pulsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesawat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesawat.Designer.cs">
+      <DependentUpon>Pesawat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pulsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pulsa.Designer.cs">
+      <DependentUpon>Pulsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utama.Designer.cs">
+      <DependentUpon>Utama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kapal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kapal.Designer.cs">
+      <DependentUpon>Kapal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bayar.resx">
+      <DependentUpon>Bayar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bus.resx">
+      <DependentUpon>Bus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daftar.resx">
+      <DependentUpon>daftar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kapal.resx">
+      <DependentUpon>Kapal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kereta.resx">
+      <DependentUpon>Kereta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="message pulsa.resx">
+      <DependentUpon>message pulsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesawat.resx">
+      <DependentUpon>Pesawat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pulsa.resx">
+      <DependentUpon>Pulsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utama.resx">
+      <DependentUpon>Utama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

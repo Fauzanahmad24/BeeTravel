@@ -1,0 +1,53 @@
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\bin\Debug\Revisi.exe.config
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\bin\Debug\Revisi.exe
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\bin\Debug\Revisi.pdb
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.csprojResolveAssemblyReference.cache
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Bayar.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Bus.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Kapal.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Kereta.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.login.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Pesawat.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Pulsa.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Utama.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Properties.Resources.resources
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.csproj.GenerateResource.Cache
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.exe
+D:\KULIAH\Semester 4\pemrograman terstruktur\Praktikum\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.pdb
+D:\KULIAH\Semester 4\pemrograman terstruktur\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.daftar.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\bin\Debug\Revisi.exe.config
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\bin\Debug\Revisi.exe
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\bin\Debug\Revisi.pdb
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Bayar.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Bus.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.daftar.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Kapal.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Kereta.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.login.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Pesawat.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Pulsa.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Utama.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.Properties.Resources.resources
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.csproj.GenerateResource.Cache
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.exe
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.pdb
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.csprojResolveAssemblyReference.cache
+D:\KULIAH\Semester 4\Pemrograman Terstruktur\SETELAH UTS\PRAKTIKUM\TUGAS\Tugas Besar\tugas besar xxx\Revisi\Revisi\obj\Debug\Revisi.message_pulsa.resources
+D:\Revisi\Revisi\bin\Debug\Revisi.exe.config
+D:\Revisi\Revisi\obj\Debug\Revisi.exe
+D:\Revisi\Revisi\obj\Debug\Revisi.pdb
+D:\Revisi\Revisi\bin\Debug\Revisi.exe
+D:\Revisi\Revisi\bin\Debug\Revisi.pdb
+D:\Revisi\Revisi\obj\Debug\Revisi.csprojResolveAssemblyReference.cache
+D:\Revisi\Revisi\obj\Debug\Revisi.Bayar.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.Bus.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.daftar.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.Kapal.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.Kereta.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.login.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.message_pulsa.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.Pesawat.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.Pulsa.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.Utama.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.Properties.Resources.resources
+D:\Revisi\Revisi\obj\Debug\Revisi.csproj.GenerateResource.Cache
